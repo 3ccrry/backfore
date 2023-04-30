@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'5fb73293-8c66-4070-9e67-6bfdcaab27c8'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://onebefore-3micop.b4a.run
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
